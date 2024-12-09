@@ -6,7 +6,7 @@ import requests
 TESTING_MODE = True
 
 # Your Discord bot token
-DISCORD_TOKEN = 'DISCORD_API_KEY'
+DISCORD_TOKEN = https://discord.com/oauth2/authorize?client_id=1315665665209794760&permissions=67584&integration_type=0&scope=bot
 
 # Initialize bot with intents
 # Initialize Intents
@@ -64,4 +64,4 @@ async def on_message(message):
             await message.channel.send(error)
 
 # Run bot
-bot.run(DISCORD_TOKEN)
+bot.run(https://discord.com/oauth2/authorize?client_id=1315665665209794760&permissions=67584&integration_type=0&scope=bot)
